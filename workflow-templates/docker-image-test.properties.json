@@ -3,7 +3,7 @@
     "description": "Texagon - Docker Image CI workflow template.",
     "iconName": "docker-image-test",
     "categories": [
-        "testing"
+        "testing","Continuous integration"
     ],
     "filePatterns": [
         "^Dockerfile"

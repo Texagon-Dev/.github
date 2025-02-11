@@ -1,0 +1,11 @@
+{
+    "name": "Texagon - Docker Image Test Workflow",
+    "description": "Texagon - Docker Image CI workflow template.",
+    "iconName": "docker-image-test",
+    "categories": [
+        "testing"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
